@@ -1,0 +1,10 @@
+{
+  "blocks": [
+    "drill"
+  ],
+  "items": [],
+  "entities": [
+    "drill-blueprint",
+    "blueprint"
+  ]
+}

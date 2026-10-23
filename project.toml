@@ -1,0 +1,8 @@
+name = "Dikson"
+title = "Dikson"
+base_packs = ["base", "factory"]
+permissions = [
+    "debugging",
+    "network",
+    "write-to-user"
+]
